@@ -2,6 +2,10 @@
 
 
 1. get the firmware
+choose from here https://www.rakwireless.com/en/download/LoRa/RAK811#Firmware_Upgrade
+
+  OR
+
 ``` sh
 curl https://github.com/RAKWireless/RAK811_BreakBoard/blob/master/bin/rak811_tracker_classA.bin --output 
 rak811_tracker_classA.bin
